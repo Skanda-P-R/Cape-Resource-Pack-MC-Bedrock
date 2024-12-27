@@ -3,11 +3,11 @@
   "header": {
     "description": "§oBy §cDanspark",
     "name": "§k|||§r §l§bCape Resource Pack§r §k|||§r",
-    "uuid": "c8d1ab43-b489-4ac7-a88a-166e108e9034",
+    "uuid": "b476b987-ca44-4055-807b-b5d627cd39ec",
     "version": [
       1,
       0,
-      0
+      1
     ],
     "min_engine_version": [
       1,
@@ -19,11 +19,11 @@
     {
       "description": "§oBy §cDanspark",
       "type": "resources",
-      "uuid": "b28cae46-9247-42f1-bdb3-e997c1f42afb",
+      "uuid": "fc5f6e85-3630-4b46-9c35-ca1f4d8cc680",
       "version": [
         1,
         0,
-        0
+        1
       ]
     }
   ],
