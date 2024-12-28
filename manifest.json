@@ -1,247 +1,247 @@
 {
-  "format_version": 2,
-  "header": {
-    "description": "§oBy §cDanspark",
-    "name": "§k|||§r §l§bCape Resource Pack§r §k|||§r",
-    "uuid": "b476b987-ca44-4055-807b-b5d627cd39ec",
-    "version": [
-      1,
-      0,
-      1
+    "format_version": 2,
+    "header": {
+        "description": "§oBy §cDanspark",
+        "name": "§l§bCape Resource Pack§r",
+        "uuid": "fbb713e7-7db0-4e98-8dbf-a065f9e27470",
+        "version": [
+            1,
+            0,
+            2
+        ],
+        "min_engine_version": [
+            1,
+            21,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "§oBy §cDanspark",
+            "type": "resources",
+            "uuid": "c28b7a5d-529f-4785-a5a7-51cef1a916c9",
+            "version": [
+                1,
+                0,
+                2
+            ]
+        }
     ],
-    "min_engine_version": [
-      1,
-      21,
-      0
-    ]
-  },
-  "modules": [
-    {
-      "description": "§oBy §cDanspark",
-      "type": "resources",
-      "uuid": "fc5f6e85-3630-4b46-9c35-ca1f4d8cc680",
-      "version": [
-        1,
-        0,
-        1
-      ]
-    }
-  ],
-  "subpacks": [
+    "subpacks": [
         {
-            "folder_name":  "OldDeveloper",
-			"memory_tier": 1,
-            "name":  "§6Mojang Cape ( Classic )"
+            "folder_name": "OldDeveloper",
+            "memory_tier": 1,
+            "name": "§6Mojang Cape ( Classic )"
         },
         {
-            "folder_name":  "NewDeveloper",
-			"memory_tier": 1,
-            "name":  "§4Mojang Cape"
+            "folder_name": "NewDeveloper",
+            "memory_tier": 1,
+            "name": "§4Mojang Cape"
         },
         {
-            "folder_name":  "MojangStudiosCape",
-			"memory_tier": 1,
-            "name":  "§cMojang Studios Cape"
-        },
-	{
-            "folder_name":  "Minecon2011Cape",
-			"memory_tier": 1,
-            "name":  "§cMinecon 2011 Cape"
-  	},
-	{
-            "folder_name":  "Minecon2012Cape",
-			"memory_tier": 1,
-            "name":  "§1Minecon 2012 Cape"
-        },
-	{
-            "folder_name":  "Minecon2013Cape",
-			"memory_tier": 1,
-            "name":  "§aMinecon 2013 Cape"
-        },
-	{
-            "folder_name":  "Minecon2015Cape",
-			"memory_tier": 1,
-            "name":  "§2Minecon 2015 Cape"
-        },
-	{
-            "folder_name":  "Minecon2016Cape",
-			"memory_tier": 1,
-            "name":  "§dMinecon 2016 Cape"
-        },
-	{
-            "folder_name":  "Bacon",
-			"memory_tier": 1,
-            "name":  "§eBacon Cape"
+            "folder_name": "MojangStudiosCape",
+            "memory_tier": 1,
+            "name": "§cMojang Studios Cape"
         },
         {
-            "folder_name":  "1Mill",
-			"memory_tier": 1,
-            "name":  "§5Millionth Customer Cape"
-        },   
-        {
-            "folder_name":  "dannyBstyle",
-			"memory_tier": 1,
-            "name":  "§9dB Cape"
+            "folder_name": "Minecon2011Cape",
+            "memory_tier": 1,
+            "name": "§cMinecon 2011 Cape"
         },
         {
-            "folder_name":  "JulianClark",
-			"memory_tier": 1,
-            "name":  "§7Snowman Cape"
+            "folder_name": "Minecon2012Cape",
+            "memory_tier": 1,
+            "name": "§1Minecon 2012 Cape"
         },
         {
-            "folder_name":  "Cheapsh0t",
-			"memory_tier": 1,
-            "name":  "§gTranslator cape (Japanese)"
+            "folder_name": "Minecon2013Cape",
+            "memory_tier": 1,
+            "name": "§aMinecon 2013 Cape"
         },
         {
-            "folder_name":  "Messiah",
-			"memory_tier": 1,
-            "name":  "§2Spade Cape"
+            "folder_name": "Minecon2015Cape",
+            "memory_tier": 1,
+            "name": "§2Minecon 2015 Cape"
         },
         {
-            "folder_name":  "Prismarine",
-			"memory_tier": 1,
-            "name":  "§aPrismarine Cape"
+            "folder_name": "Minecon2016Cape",
+            "memory_tier": 1,
+            "name": "§dMinecon 2016 Cape"
         },
         {
-            "folder_name":  "Turtle",
-			"memory_tier": 1,
-            "name":  "§2Turtle Cape"
+            "folder_name": "Bacon",
+            "memory_tier": 1,
+            "name": "§eBacon Cape"
         },
         {
-            "folder_name":  "Gr8Bizzo",
-			"memory_tier": 1,
-            "name":  "§1Birthday Cape"
+            "folder_name": "1Mill",
+            "memory_tier": 1,
+            "name": "§5Millionth Customer Cape"
         },
         {
-            "folder_name":  "Valentine",
-			"memory_tier": 1,
-            "name":  "§dValentine Cape"
+            "folder_name": "dannyBstyle",
+            "memory_tier": 1,
+            "name": "§9dB Cape"
         },
         {
-            "folder_name":  "CrowdinTranslator",
-			"memory_tier": 1,
-            "name":  "§gTranslator Cape"
+            "folder_name": "JulianClark",
+            "memory_tier": 1,
+            "name": "§7Snowman Cape"
         },
         {
-            "folder_name":  "ChineseTranslator",
-			"memory_tier": 1,
-            "name":  "§gChinese Translator Cape"
+            "folder_name": "Cheapsh0t",
+            "memory_tier": 1,
+            "name": "§gTranslator cape (Japanese)"
         },
         {
-            "folder_name":  "Scrolls",
-			"memory_tier": 1,
-            "name":  "§gScrolls Champion Cape"
+            "folder_name": "Messiah",
+            "memory_tier": 1,
+            "name": "§2Spade Cape"
         },
         {
-            "folder_name":  "Cobalt",
-			"memory_tier": 1,
-            "name":  "§1Cobalt Cape"
+            "folder_name": "Prismarine",
+            "memory_tier": 1,
+            "name": "§aPrismarine Cape"
         },
         {
-            "folder_name":  "MojiraModerator",
-			"memory_tier": 1,
-            "name":  "§8Mojira Moderator Cape"
+            "folder_name": "Turtle",
+            "memory_tier": 1,
+            "name": "§2Turtle Cape"
         },
         {
-            "folder_name":  "Realms",
-			"memory_tier": 1,
-            "name":  "§bRealms MapMaker Cape"
-        },    
-        {
-            "folder_name":  "JavaMigration",
-			"memory_tier": 1,
-            "name":  "§cMigrator Cape"
+            "folder_name": "Gr8Bizzo",
+            "memory_tier": 1,
+            "name": "§1Birthday Cape"
         },
         {
-            "folder_name":  "Christmas",
-			"memory_tier": 1,
-            "name":  "§4Christmas 2010 Cape"
+            "folder_name": "Valentine",
+            "memory_tier": 1,
+            "name": "§dValentine Cape"
         },
         {
-            "folder_name":  "NewYear",
-			"memory_tier": 1,
-            "name":  "§5New Year 2011 Cape"
+            "folder_name": "CrowdinTranslator",
+            "memory_tier": 1,
+            "name": "§gTranslator Cape"
         },
         {
-            "folder_name":  "Xbox",
-			"memory_tier": 1,
-            "name":  "§fMicrosoft Xbox Cape"
+            "folder_name": "ChineseTranslator",
+            "memory_tier": 1,
+            "name": "§gChinese Translator Cape"
         },
         {
-            "folder_name":  "Birtday",
-			"memory_tier": 1,
-            "name":  "§b1st Birtday Cape"
+            "folder_name": "Scrolls",
+            "memory_tier": 1,
+            "name": "§gScrolls Champion Cape"
         },
         {
-            "folder_name":  "Minecon2019Cape",
-			"memory_tier": 1,
-            "name":  "§6Founder's Cape"
+            "folder_name": "Cobalt",
+            "memory_tier": 1,
+            "name": "§1Cobalt Cape"
         },
         {
-            "folder_name":  "Pancape",
-			"memory_tier": 1,
-            "name":  "§bThe Pan Cape !"
+            "folder_name": "MojiraModerator",
+            "memory_tier": 1,
+            "name": "§8Mojira Moderator Cape"
         },
         {
-            "folder_name":  "Pride",
-			"memory_tier": 1,
-            "name":  "Progress §4P§6r§ei§ad§9e§r Cape"
+            "folder_name": "Realms",
+            "memory_tier": 1,
+            "name": "§bRealms MapMaker Cape"
         },
         {
-            "folder_name":  "Cheery",
-			"memory_tier": 1,
-            "name":  "§dCheery Cape"
-        },
-	{
-            "folder_name":  "Vanilla",
-			"memory_tier": 1,
-            "name":  "§aOne Vanilla Cape"
-        },
-	{
-            "folder_name":  "Tiktok",
-			"memory_tier": 1,
-            "name":  "§cFollower's Cape"
-        },
-	{
-            "folder_name":  "Twitch",
-			"memory_tier": 1,
-            "name":  "§uPurple Heart Cape"
-        },
-	{
-            "folder_name":  "15Year",
-			"memory_tier": 1,
-            "name":  "§a15th Anniversary Cape"
-        },
-	{
-            "folder_name":  "MCC",
-			"memory_tier": 1,
-            "name":  "§mMCC 15th Year Cape"
-        },
-	{
-            "folder_name":  "MCExperience",
-			"memory_tier": 1,
-            "name":  "§uMC Experience Cape"
-        },
-	{
-            "folder_name":  "Creaking",
-			"memory_tier": 1,
-            "name":  "§nMojang Office Cape"
+            "folder_name": "JavaMigration",
+            "memory_tier": 1,
+            "name": "§cMigrator Cape"
         },
         {
-            "folder_name":  "Ecko",
-			"memory_tier": 1,
-            "name":  "§2Eckosoldier Cape"
+            "folder_name": "Christmas",
+            "memory_tier": 1,
+            "name": "§4Christmas 2010 Cape"
         },
         {
-            "folder_name":  "dan5park",
-			"memory_tier": 1,
-            "name":  "§bDan5park Cape"
+            "folder_name": "NewYear",
+            "memory_tier": 1,
+            "name": "§5New Year 2011 Cape"
         },
         {
-            "folder_name":  "Custom",
-			"memory_tier": 1,
-            "name":  "§3Custom Cape"
+            "folder_name": "Xbox",
+            "memory_tier": 1,
+            "name": "§fMicrosoft Xbox Cape"
+        },
+        {
+            "folder_name": "Birtday",
+            "memory_tier": 1,
+            "name": "§b1st Birtday Cape"
+        },
+        {
+            "folder_name": "Minecon2019Cape",
+            "memory_tier": 1,
+            "name": "§6Founder's Cape"
+        },
+        {
+            "folder_name": "Pancape",
+            "memory_tier": 1,
+            "name": "§bThe Pan Cape !"
+        },
+        {
+            "folder_name": "Pride",
+            "memory_tier": 1,
+            "name": "Progress §4P§6r§ei§ad§9e§r Cape"
+        },
+        {
+            "folder_name": "Cheery",
+            "memory_tier": 1,
+            "name": "§dCheery Cape"
+        },
+        {
+            "folder_name": "Vanilla",
+            "memory_tier": 1,
+            "name": "§aOne Vanilla Cape"
+        },
+        {
+            "folder_name": "Tiktok",
+            "memory_tier": 1,
+            "name": "§cFollower's Cape"
+        },
+        {
+            "folder_name": "Twitch",
+            "memory_tier": 1,
+            "name": "§uPurple Heart Cape"
+        },
+        {
+            "folder_name": "15Year",
+            "memory_tier": 1,
+            "name": "§a15th Anniversary Cape"
+        },
+        {
+            "folder_name": "MCC",
+            "memory_tier": 1,
+            "name": "§mMCC 15th Year Cape"
+        },
+        {
+            "folder_name": "MCExperience",
+            "memory_tier": 1,
+            "name": "§uMC Experience Cape"
+        },
+        {
+            "folder_name": "Creaking",
+            "memory_tier": 1,
+            "name": "§nMojang Office Cape"
+        },
+        {
+            "folder_name": "Ecko",
+            "memory_tier": 1,
+            "name": "§2Eckosoldier Cape"
+        },
+        {
+            "folder_name": "dan5park",
+            "memory_tier": 1,
+            "name": "§bDan5park Cape"
+        },
+        {
+            "folder_name": "Custom",
+            "memory_tier": 1,
+            "name": "§3Custom Cape"
         }
     ]
 }

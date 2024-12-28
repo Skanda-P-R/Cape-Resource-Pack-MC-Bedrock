@@ -25,7 +25,8 @@
           "variable.is_holding_right = 0.0;",
           "variable.is_blinking = 0.0;",
           "variable.last_blink_time = 0.0;",
-          "variable.hand_bob = 0.0;"
+          "variable.hand_bob = 0.0;",
+          "variable.render = 0.0;"
         ],
         "pre_animation": [
           "variable.helmet_layer_visible = !query.has_head_gear;",
@@ -40,10 +41,14 @@
           "variable.item_use_normalized = query.main_hand_item_use_duration / query.main_hand_item_max_duration;"
         ],
         "animate": [
-          "root"
+          "root",
+          {
+            "render": "query.is_in_ui"
+          }
         ]
       },
       "animations": {
+        "render": "animation.render",
         "root": "controller.animation.player.root",
         "base_controller": "controller.animation.player.base",
         "hudplayer": "controller.animation.player.hudplayer",
@@ -121,6 +126,9 @@
         },
         {
           "controller.render.player.map": "variable.map_face_icon"
+        },
+        {
+          "controller.render.cape": "query.armor_texture_slot(1) != 5 && ((variable.render == 1.0 && !variable.is_first_person) || variable.is_paperdoll) && !variable.map_face_icon && !query.is_spectator"
         }
       ],
       "enable_attachables": true
